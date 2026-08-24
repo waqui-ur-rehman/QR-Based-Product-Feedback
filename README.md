@@ -52,3 +52,18 @@ Mongoose
 Other
 QR Code
 GitHub
+
+Future Improvements
+
+The project can be extended in the future with features such as:
+
+Admin dashboard for managing reviews
+Multiple product pages
+Product-specific QR codes
+Review search and filtering
+Review moderation
+Company login and dashboard
+Product images and additional product information
+
+Project Purpose
+The purpose of this project is to provide a simple and practical way for companies to collect customer feedback while helping new customers make better purchasing decisions through real customer reviews.

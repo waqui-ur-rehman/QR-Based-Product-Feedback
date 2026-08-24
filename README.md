@@ -33,11 +33,12 @@ Customer submits Name, Rating and Review
         ↓
 Express.js Backend
         ↓
-MongoDB Atlas
+MongoDB 
         ↓
 Review is Saved
         ↓
 Review is Displayed on the Page
+
 Technologies Used
 Frontend
 HTML
